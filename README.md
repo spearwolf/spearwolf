@@ -9,7 +9,7 @@
 ```
 .. and passionate about crafting code and art!
 
-I live in Germany, in Beelitz-Heilstätten, very close to Berlin. But I work remotely all over the world.
+I live in Germany, in a once lost place in Beelitz-Heilstätten, very close to Berlin. But I work remotely all over the world.
 
 If you want to contact me, just have a look at my website &rarr; [www.spearwolf.de](https://www.spearwolf.de/)
 <!--
