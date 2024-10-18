@@ -1,5 +1,15 @@
-## Hi there 👋
+**hej!** I'm _spearwolf_, a ..
 
+```
+💾 freelance full-stack developer
+💖 2.5d gfx enthusiast
+🎨 part time artist
+🕹️ retro games lover
+💀 free time goth
+```
+.. and passionate about crafting code and art!
+
+If you want to contact me, just have a look at my website &rarr; [www.spearwolf.de](https://www.spearwolf.de/)
 <!--
 **spearwolf/spearwolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
