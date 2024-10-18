@@ -9,6 +9,8 @@
 ```
 .. and passionate about crafting code and art!
 
+I live in Germany, in Beelitz-Heilstätten, very close to Berlin. But I work remotely all over the world.
+
 If you want to contact me, just have a look at my website &rarr; [www.spearwolf.de](https://www.spearwolf.de/)
 <!--
 **spearwolf/spearwolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
