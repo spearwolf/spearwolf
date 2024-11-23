@@ -1,11 +1,12 @@
 **hej!** I'm _spearwolf_, a ..
 
 ```
-💾 freelance full-stack developer
+💾 freelance · web · front-end · full-stack · 3d · developer
 💖 2.5d gfx enthusiast
 🎨 part time artist
 🕹️ retro games lover
 💀 free time goth
+⚔️ a late medieval swordsman
 ```
 .. and passionate about crafting code and art!
 
