@@ -1,7 +1,7 @@
 **hej!** I'm _spearwolf_, a ..
 
 ```
-💾 freelance · web · front-end · full-stack · 3d · developer
+💾 freelance · web · front-end · full-stack · 3d · ai · developer
 💖 2.5d gfx enthusiast
 🎨 part time artist
 🕹️ retro games lover
